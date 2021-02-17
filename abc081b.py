@@ -1,5 +1,5 @@
-sise = int(input())
-num_list = list(map(int,input(),split()))
+size = int(input())
+num_list = list(map(int,input().split()))
 
 num_div = 0
 all_even = True
